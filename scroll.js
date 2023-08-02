@@ -21,7 +21,7 @@ function fadeOutOnScroll(element) {
 }
 
 function scrollHandler() {
-    fadeOutOnScroll(image);
+    fadeOutOnScroll(image); 
 }
 
 window.addEventListener('scroll', scrollHandler);
